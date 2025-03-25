@@ -53,5 +53,5 @@ Se deseja contribuir com melhorias, fique à vontade para abrir um Pull Request 
 - **LinkedIn:** [/in/thomaz-silva-dataengineer/](https://www.linkedin.com/in/thomaz-silva-dataengineer/)
 
 ---
-🚀 Projeto em constante evolução! Feedbacks são sempre bem-vindos. 🔍
+🚀 Feedbacks são sempre bem-vindos. 🔍
 
